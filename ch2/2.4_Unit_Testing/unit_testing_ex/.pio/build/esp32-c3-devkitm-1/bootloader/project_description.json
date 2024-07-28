@@ -1,0 +1,25 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/bootloader/subproject",
+    "build_dir":          "C:/Users/jaime/Desktop/ESP32/ch2/2.4_Unit_Testing/unit_testing_ex/.pio/build/esp32-c3-devkitm-1/bootloader",
+    "config_file":        "C:/Users/jaime/Desktop/ESP32/ch2/2.4_Unit_Testing/unit_testing_ex/sdkconfig.esp32-c3-devkitm-1",
+    "config_defaults":    "",
+    "bootloader_elf":     "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "5.0.1",
+    "target":             "esp32c3",
+    "rev":                "",
+    "min_rev":            "3",
+    "max_rev":            "99",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "riscv32-esp-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/efuse/Kconfig;C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/esp_common/Kconfig;C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/esp_hw_support/Kconfig;C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/esp_system/Kconfig;C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/freertos/Kconfig;C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/hal/Kconfig;C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/log/Kconfig;C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/newlib/Kconfig;C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/bootloader/Kconfig.projbuild;C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/esp_app_format/Kconfig.projbuild;C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/esp_rom/Kconfig.projbuild;C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/esptool_py/Kconfig.projbuild;C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp_app_format", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "riscv", "soc", "spi_flash", "" ],
+    "build_component_paths" : [ "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/bootloader", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/bootloader_support", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/efuse", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/esp_app_format", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/esp_common", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/esp_hw_support", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/esp_rom", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/esp_system", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/esptool_py", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/freertos", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/hal", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/log", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/bootloader/subproject/main", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/bootloader/subproject/components/micro-ecc", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/newlib", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/partition_table", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/riscv", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/soc", "C:/Users/jaime/.platformio/packages/framework-espidf@3.50001.0/components/spi_flash", "" ],
+    "debug_prefix_map_gdbinit": ""
+}
